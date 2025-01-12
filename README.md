@@ -26,3 +26,5 @@ Una volta installato ed eseguito Redis, è possibile eseguire le celle nel noteb
 Il notebook utilizza la libreria WikiFetcher per limitare la velocità delle richieste a Wikipedia ed evitare di essere bloccato.
 Il notebook utilizza la libreria redis per interagire con il database Redis.
 Il notebook contiene un'implementazione dell'algoritmo BFS per eseguire il crawling di Wikipedia.
+
+Il notebook è stato ripreso da Think Python: How to Think Like a Computer Scientist di Allen Downey e adattato per evitare errori del server Redis con Gemini code assistant.
